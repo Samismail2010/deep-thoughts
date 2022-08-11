@@ -1,6 +1,5 @@
 # Deep Thoughts
 
-  (https://opensource.org/licenses/ISC)
 
   ## Description
 MERN (MongoDB, Express.js, React, and Node.js) stack social network. SPA (Single Page Application) utilizing react router, GraphQL and JWT (JSON Web Token) authentication. The backend application is deployed live @Heroku utilizing MongoDB Atlas.
@@ -11,9 +10,7 @@ MERN (MongoDB, Express.js, React, and Node.js) stack social network. SPA (Single
 * [Installation](#installation)
 * [Language](#language)
 * [Usage](#usage)
-* [License](#license)
 * [Contributions](#contributions)
-* [Test](#test)
 * [Questions](#questions)
 
 ## Installation
