@@ -35,6 +35,9 @@ npm start
 browse to http://localhost:3000/
 browse to http://localhost:3001/graphql/
 
+## Screenshot
+<img width="1279" alt="Screen Shot 2022-06-29 at 8 48 22 PM" src="https://user-images.githubusercontent.com/88996409/184153925-0b7cbf21-4483-4994-8cb6-cb0b39443f55.png">
+
 ## Contributions
 none
 
