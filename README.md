@@ -1,7 +1,10 @@
 # Deep Thoughts
 
+## Deployed App
+https://stark-sands-24765.herokuapp.com/
 
-  ## Description
+
+## Description
 MERN (MongoDB, Express.js, React, and Node.js) stack social network. SPA (Single Page Application) utilizing react router, GraphQL and JWT (JSON Web Token) authentication. The backend application is deployed live @Heroku utilizing MongoDB Atlas.
 
 ## Table of Contents
